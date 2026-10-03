@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of meetdilip/flarum-lang-malayalam.** Not for installation: use [Packagist](https://packagist.org/packages/meetdilip/flarum-lang-malayalam) or the [upstream repository](https://github.com/flarum-lang/malayalam).
 
-**0** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`2.0.0`](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v2.0.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-09-30 | `^1.0` | [Browse](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v1.0.0) |
+| `2.0.0` | 2026-09-30 | `^2.0` | [Browse](https://github.com/flarchive/meetdilip-flarum-lang-malayalam/tree/archive/v2.0.0) |
 
 Catalog entry: [packages/meetdilip-flarum-lang-malayalam.json](https://github.com/flarchive/archive-index/blob/main/packages/meetdilip-flarum-lang-malayalam.json)
 
